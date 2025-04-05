@@ -1,5 +1,5 @@
 # Simulador de colisões
 
-Simulação simples para simular diversas bolas se movimentando e colidindo dentro de um espaço delimitado na tela.
+Sistema simples para simular diversas bolas se movimentando e colidindo dentro de um espaço delimitado na tela.
 
 [Clique aqui para visualizar](otaviooalmeida.github.io)
